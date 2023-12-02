@@ -9,8 +9,11 @@ Given an existing dictionary (or user-provided dictionary) and a rack (starting 
 Below is a sample output:
 
 Type . to quit.
+
 Rack? evets
+
 We can make 20 words from "evets"
+
 All of the words with their scores (sorted by score):
 
 8: evets
