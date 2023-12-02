@@ -4,7 +4,7 @@
 Given an existing dictionary (or user-provided dictionary) and a rack (starting letters), the program will output a list of possible combinations of letters that could be used from the rack sorted by score in descending order.
 
 1) Compile the program using the command: javac *.java.
-2) Run the program using the command: java WordFinder <leave blank or insert own dictionary>.
+2) Run the program using the command: java WordFinder [leave blank or use your own dictionary]
 
 Below is a sample output:
 
